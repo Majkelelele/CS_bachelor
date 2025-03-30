@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/err.dir/err.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/err.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/err.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/get_memory.dir/get_memory.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/get_memory.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/get_memory.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/send_message.dir/send_message.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/send_message.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/send_message.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/send_message_no_inheritance.dir/send_message_no_inheritance.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/send_message_no_inheritance.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/send_message_no_inheritance.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/unnamed_memory.dir/unnamed_memory.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/unnamed_memory.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/unnamed_memory.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/send_message_protected.dir/send_message_protected.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/send_message_protected.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/send_message_protected.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/unnamed_memory_protected.dir/unnamed_memory_protected.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/unnamed_memory_protected.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/unnamed_memory_protected.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/gifts.dir/gifts.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/gifts.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/gifts.c"
+}
+]

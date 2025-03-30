@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/err.dir/err.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/err.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/err.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/simple_handler.dir/simple_handler.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/simple_handler.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/simple_handler.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/signal_mask.dir/signal_mask.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/signal_mask.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/signal_mask.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/more_info.dir/more_info.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/more_info.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/more_info.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/terminator.dir/terminator.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/terminator.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_11/terminator.c"
+}
+]

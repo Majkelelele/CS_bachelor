@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/build",
+  "command": "/usr/bin/gcc    -O0 -Wall -std=c17 -latomic -g -std=gnu17 -o CMakeFiles/mutual-excl.dir/mutual-excl.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/mutual-excl.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/mutual-excl.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/build",
+  "command": "/usr/bin/gcc    -O0 -Wall -std=c17 -latomic -g -std=gnu17 -o CMakeFiles/atomic-volatile.dir/atomic-volatile.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/atomic-volatile.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/atomic-volatile.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/build",
+  "command": "/usr/bin/gcc    -O0 -Wall -std=c17 -latomic -g -std=gnu17 -o CMakeFiles/lockfree-stack.dir/lockfree-stack.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/lockfree-stack.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/lockfree-stack.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/build",
+  "command": "/usr/bin/gcc    -O0 -Wall -std=c17 -latomic -g -std=gnu17 -o CMakeFiles/dekker.dir/dekker.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/dekker.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/dekker.c"
+}
+]

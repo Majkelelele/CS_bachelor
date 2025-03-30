@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW-PW-lab11",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "atomic-volatile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-atomic-volatile-36d4e80684bc55ee79d5.json",
+					"name" : "atomic-volatile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dekker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dekker-5933366710c940bb981c.json",
+					"name" : "dekker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lockfree-stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lockfree-stack-8d67575b8df37b90c53a.json",
+					"name" : "lockfree-stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mutual-excl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mutual-excl-e445fa8514454f2924f6.json",
+					"name" : "mutual-excl",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12/build",
+		"source" : "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_12"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

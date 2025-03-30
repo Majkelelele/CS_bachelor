@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW-SIGNALS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "err::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-err-Debug-a6733f5c00d89b7393cd.json",
+					"name" : "err",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "get_memory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_memory-Debug-7d3be8db50bc3e7c45e8.json",
+					"name" : "get_memory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gifts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gifts-Debug-b011db69a124115e5af7.json",
+					"name" : "gifts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "send_message::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-send_message-Debug-035eb9ba127e5cf16b95.json",
+					"name" : "send_message",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "send_message_no_inheritance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-send_message_no_inheritance-Debug-5c09b1a293449ab25b00.json",
+					"name" : "send_message_no_inheritance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "send_message_protected::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-send_message_protected-Debug-ff5f42b2b85d7e78a2d3.json",
+					"name" : "send_message_protected",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unnamed_memory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unnamed_memory-Debug-00007ee8a58c5239e039.json",
+					"name" : "unnamed_memory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unnamed_memory_protected::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unnamed_memory_protected-Debug-cfc42013d7949d994b1b.json",
+					"name" : "unnamed_memory_protected",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10/build",
+		"source" : "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_10"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

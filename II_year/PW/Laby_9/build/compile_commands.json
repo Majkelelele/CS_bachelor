@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/build",
+  "command": "/usr/bin/gcc   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/err.dir/err.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09/err.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09/err.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/build",
+  "command": "/usr/bin/gcc   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/primes.dir/primes.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09/primes.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09/primes.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/build",
+  "command": "/usr/bin/gcc   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/producer-consumer.dir/producer-consumer.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09/producer-consumer.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09/producer-consumer.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/build",
+  "command": "/usr/bin/gcc   -g -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -g -std=gnu11 -o CMakeFiles/readers-writers-template.dir/readers-writers-template.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09/readers-writers-template.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09/readers-writers-template.c"
+}
+]

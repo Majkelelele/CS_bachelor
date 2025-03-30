@@ -1,0 +1,51 @@
+section .text
+
+global sum
+
+sum:
+ mov r9, 1 ;index
+ cmp rsi, r9
+ jz .exit
+.loop:
+ mov rax, r9  ; obliczam przesuniecie
+ mul r9
+ shl rax, 0x6 
+ xor rdx, rdx
+ div rsi ;koniec obliczania, wynik w rax
+ mov r8, 0x40
+ xor rdx, rdx
+ idiv r8 ;przesuniecie mod 64, wynik dzielenie w rax, reszta w rdx
+ mov rcx, rdx
+ mov r8, [rdi + 8*r9]
+ shl r8, cl
+ mov rcx, 0x40
+ sub rcx, rdx 
+ mov rdx, [rdi + 8*r9]
+.normal: 
+ mov qword [rdi + 8*r9], 0
+ mov r10, 0x8000000000000000
+ test [rdi + 8*r9 - 8], r10
+ jnz  .negative
+ jmp .non_negative
+.numPositive:
+ shr rdx, cl
+ add [rdi + 8*rax + 8], rdx
+ jmp .end_loop 
+.negative:
+ mov qword [rdi + 8*r9], 0xFFFFFFFFFFFFFFFF
+.non_negative: 
+ add [rdi + 8*rax], r8
+ adc qword [rdi + 8*rax + 8], 0
+ test rdx, rdx
+ jns .numPositive
+ sar rdx, cl
+ neg rdx
+ sub [rdi + 8*rax + 8], rdx
+ sbb qword [rdi + 8*rax + 16],0
+.end_loop: 
+ inc r9
+ cmp rsi, r9
+ jz .exit
+ jmp .loop   
+.exit:
+ ret

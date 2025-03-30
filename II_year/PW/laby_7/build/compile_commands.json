@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/laby_7/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/err.dir/err.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/laby_7/err.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/laby_7/err.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/laby_7/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/probny.dir/probny.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/laby_7/probny.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/laby_7/probny.c"
+}
+]

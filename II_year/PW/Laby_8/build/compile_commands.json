@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/err.dir/err.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/err.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/err.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/child-pipe.dir/child-pipe.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/child-pipe.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/child-pipe.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/parent-pipe.dir/parent-pipe.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/parent-pipe.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/parent-pipe.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/parent-dup.dir/parent-dup.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/parent-dup.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/parent-dup.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/child-fifo.dir/child-fifo.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/child-fifo.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/child-fifo.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/parent-fifo.dir/parent-fifo.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/parent-fifo.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/parent-fifo.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/pipeline-utils.dir/pipeline-utils.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/pipeline-utils.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/pipeline-utils.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/pipeline.dir/pipeline.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/pipeline.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/pipeline.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/build",
+  "command": "/usr/bin/gcc-11   -g -Wall -Wextra -Wno-sign-compare -g -std=gnu11 -o CMakeFiles/pipeline-tester.dir/pipeline-tester.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/pipeline-tester.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_8/pipeline-tester.c"
+}
+]
