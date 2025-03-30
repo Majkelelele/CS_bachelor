@@ -1,0 +1,31 @@
+--- projekt1/common.c	2024-04-26 02:05:38.000000000 +0200
++++ projekt/common.c	2024-05-05 14:00:20.920191054 +0200
+@@ -206,8 +206,8 @@
+     }
+ 
+     // Zakończ bufor znakiem null
+-    buffer[total_length] = '\0';
+-    *size = total_length+1;
++    // buffer[total_length] = '\0';
++    *size = total_length;
+     return buffer;
+ }
+ 
+@@ -300,7 +300,7 @@
+     0,0);
+     if(result == -1) return result;
+ 
+-    printf("%.*s", to_be_read_size, input);
++    write(STDOUT_FILENO, input, to_be_read_size);
+     fflush(stdout);
+     return data->data_byte_count;
+ }
+@@ -465,7 +465,7 @@
+     // Extract the second part of the data after the first part
+     memcpy(input, combined_data + sizeof(*data), data->data_byte_count);
+ 
+-    printf("%.*s", data->data_byte_count, input);
++    write(STDOUT_FILENO, input, data->data_byte_count);
+     fflush(stdout);
+     return data->data_byte_count;
+ 

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "barrier": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "latch": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp"
+    }
+}

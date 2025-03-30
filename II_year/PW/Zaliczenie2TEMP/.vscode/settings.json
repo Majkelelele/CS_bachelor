@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bitset": "c",
+        "algorithm": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

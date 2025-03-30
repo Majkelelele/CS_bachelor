@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW-PTHREADS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "err::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-err-Debug-e9555c7e5f45818352c4.json",
+					"name" : "err",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "primes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-primes-Debug-c0e2d22cad5c1aefd11b.json",
+					"name" : "primes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "producer-consumer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-producer-consumer-Debug-4bbe0bc0b85043c8136b.json",
+					"name" : "producer-consumer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readers-writers-template::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readers-writers-template-Debug-7c124e95a52e8d91bbc6.json",
+					"name" : "readers-writers-template",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/build",
+		"source" : "/home/students/mismap/m/mz438834/II_ROK/PW/Laby_9/przyklady09"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

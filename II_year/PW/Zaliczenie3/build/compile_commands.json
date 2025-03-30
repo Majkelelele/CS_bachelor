@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/build",
+  "command": "/usr/bin/gcc-11   -Wall -Wextra -Wpedantic -Wno-sign-compare -Wno-unused-parameter -O3 -march=native -fno-exceptions -g -std=gnu17 -o CMakeFiles/queues.dir/SimpleQueue.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/SimpleQueue.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/SimpleQueue.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/build",
+  "command": "/usr/bin/gcc-11   -Wall -Wextra -Wpedantic -Wno-sign-compare -Wno-unused-parameter -O3 -march=native -fno-exceptions -g -std=gnu17 -o CMakeFiles/queues.dir/RingsQueue.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/RingsQueue.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/RingsQueue.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/build",
+  "command": "/usr/bin/gcc-11   -Wall -Wextra -Wpedantic -Wno-sign-compare -Wno-unused-parameter -O3 -march=native -fno-exceptions -g -std=gnu17 -o CMakeFiles/queues.dir/LLQueue.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/LLQueue.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/LLQueue.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/build",
+  "command": "/usr/bin/gcc-11   -Wall -Wextra -Wpedantic -Wno-sign-compare -Wno-unused-parameter -O3 -march=native -fno-exceptions -g -std=gnu17 -o CMakeFiles/queues.dir/BLQueue.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/BLQueue.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/BLQueue.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/build",
+  "command": "/usr/bin/gcc-11   -Wall -Wextra -Wpedantic -Wno-sign-compare -Wno-unused-parameter -O3 -march=native -fno-exceptions -g -std=gnu17 -o CMakeFiles/queues.dir/HazardPointer.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/HazardPointer.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/HazardPointer.c"
+},
+{
+  "directory": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/build",
+  "command": "/usr/bin/gcc-11   -Wall -Wextra -Wpedantic -Wno-sign-compare -Wno-unused-parameter -O3 -march=native -fno-exceptions -g -std=gnu17 -o CMakeFiles/simpleTester.dir/simpleTester.c.o -c /home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/simpleTester.c",
+  "file": "/home/students/mismap/m/mz438834/II_ROK/PW/Zaliczenie3/ab123456/simpleTester.c"
+}
+]
